@@ -1,7 +1,7 @@
 {
-    "prefix": "your_prefix",
+    "prefix": "+",
     "token": "your_bot_token",
-    "mongoose": "mongo_db_url",
+    "mongoose": "mongodb+srv://c4clan2:X7e$Hfh,Hpb)v5Q@c4clan2.msmud1g.mongodb.net/?retryWrites=true&w=majority",
     "emoji": {
         "play": "▶️",
         "stop": "⏹️",
