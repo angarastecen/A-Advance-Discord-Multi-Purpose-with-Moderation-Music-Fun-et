@@ -1,4 +1,4 @@
-const Discord = require("discord.js");
+Moconst Discord = require("discord.js");
 const client = new Discord.Client();
 const Distube = require("distube");
 const config = require('./config/config.json')
@@ -159,4 +159,4 @@ client.distube
     )
   );
 
-client.login(config.token);
+client.login(process.env.TOKEN);
